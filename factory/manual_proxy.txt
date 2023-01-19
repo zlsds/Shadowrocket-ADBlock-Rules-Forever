@@ -98,12 +98,8 @@ vortex.data.microsoft.com
 #183
 mendeley.com
 
-#192 播客收听应用程序 overcast apple podcast
+#192 播客收听应用程序 overcast
 overcast.fm
-podcasts.apple.com
-bookkeeper.itunes.apple.com
-play.itunes.apple.com
-xp.apple.com
 
 #205 APPLE NEWS
 news-events.apple.com
