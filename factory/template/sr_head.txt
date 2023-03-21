@@ -12,6 +12,6 @@ dns-server = https://doh.pub/dns-query
 [Rule]
 DOMAIN-SUFFIX,podcasts.apple.com,Proxy
 DOMAIN-SUFFIX,bookkeeper.itunes.apple.com,Proxy
-DOMAIN-SUFFIX,play.itunes.apple.com,Proxy
 DOMAIN-SUFFIX,xp.apple.com,Proxy
 DOMAIN-SUFFIX,bing.com,Proxy
+DOMAIN-SUFFIX,pixiv.net,Proxy
